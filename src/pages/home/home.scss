@@ -1,0 +1,86 @@
+page-home {
+
+    .topLogo
+    {
+        position: absolute;
+        top:0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        margin: auto;
+        float: center;
+        height: auto;
+        width: auto;
+        max-width:80%;
+        max-height: 35%;
+    }
+
+    .slidetext
+    {
+        color: black;
+    }
+
+    .backgrounddiv1 
+    {
+        background: url(/../assets/img/background.jpg) no-repeat; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        //background-attachment: fixed;
+        position: absolute;
+        top:5%;
+        height: 40%;
+        width: 100%;
+        border-radius:20px;
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .backgrounddiv2
+    {
+        background: url(/../assets/img/background2.jpg) no-repeat; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        //background-attachment: fixed;
+        position: absolute;
+        top:5%;
+        height: 40%;
+        width: 100%;
+        border-radius:20px;
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .backgrounddiv3 
+    {
+        background: url(/../assets/img/background21.jpg) no-repeat; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        //background-attachment: fixed;
+        position: absolute;
+        top:5%;
+        height: 40%;
+        width: 100%;
+        border-radius:20px;
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .textdiv
+    {
+        position: absolute;
+        height: 30%;
+        width: 100%;
+    }
+
+    .starticonattribute
+    {
+        font-size: 400%;
+    }
+
+}
